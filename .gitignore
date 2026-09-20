@@ -1,0 +1,35 @@
+# Секреты и конфигурация (никогда не коммить!)
+.env
+.env.local
+.env.production
+.env.development
+.env.*
+!.env.example
+
+# Локальные файлы бота
+bot.lock
+*.log
+*.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+.venv/
+venv/
+env/
+envs/
+.python-version
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ОС
+.DS_Store
+Thumbs.db
+desktop.ini
