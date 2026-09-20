@@ -1,2 +1,3 @@
 # VK_Gigachat
-Репозиторий проекта VK Gigachat
+
+Проект VK Gigachat.
